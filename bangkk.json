@@ -1,12 +1,13 @@
 {
   "response": [
     {
-      "timestamp": 0,
-      "filename": "WitAqua-16.0-YYYYMMDD-bangkk-v1.0-OFFICIAL.zip",
-      "md5": "MD5_HASH_QUI",
-      "size": 0,
-      "download": "LINK_SOURCEFORGE_DOWNLOAD",
-      "version": "1.0"
+      "timestamp": 1767145803,
+      "filename": "WitAqua-16.0-20251231-bangkk-v3.0-OFFICIAL.zip",
+      "md5": "083b5c6211aec1f01cde221b36d4cb16",
+      "size": 1507064543,
+      "download": "https://sourceforge.net/projects/witaqua/files/16/bangkk/WitAqua-16.0-20251231-bangkk-v3.0-OFFICIAL.zip/download",
+      "version": "3.0"
     }
   ]
 }
+
