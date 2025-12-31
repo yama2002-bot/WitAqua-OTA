@@ -1,12 +1,15 @@
 {
-  "response": [
-    {
-      "datetime": 0,
-      "filename": "",
-      "id": "",
-      "size": 0,
-      "url": "",
-      "version": "0.0"
-    }
-  ]
+  "name": "Motorola <G84>",
+  "codename": "bangkk",
+  "brand": "Xiaomi",
+  "maintainer": {
+    "name": "yama",
+    "github": "TUO_GITHUB"
+  },
+  "downloadUrl": "LINK_SOURCEFORGE_DOWNLOAD",
+  "imgsUrl": "https://sourceforge.net/projects/witaqua/files/16/bangkk/images/",
+  "archiveUrl": "https://sourceforge.net/projects/witaqua/files/16/bangkk/",
+  "installUrl": "https://wiki.witaqua.org/devices/bangkk",
+  "latestAndroidVersion": "16",
+  "latestBuildDate": "YYYY-MM-DD"
 }
