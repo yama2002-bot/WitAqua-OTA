@@ -1,2 +1,5 @@
-===== Initial Release =====
-- OTA initialized
+===== Initial Android 16 Release =====
+- First official WitAqua build for Motorola Moto G84 (bangkk)
+- Android 16 base
+- Signed build
+- Initial device bring-up
