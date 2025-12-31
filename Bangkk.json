@@ -2,11 +2,11 @@
   "response": [
     {
       "timestamp": 0,
-      "filename": "WitAqua-16.0-YYYYMMDD-bangkk-vX.X-OFFICIAL.zip",
+      "filename": "WitAqua-16.0-YYYYMMDD-bangkk-v1.0-OFFICIAL.zip",
       "md5": "MD5_HASH_QUI",
       "size": 0,
       "download": "LINK_SOURCEFORGE_DOWNLOAD",
-      "version": "X.X"
+      "version": "1.0"
     }
   ]
 }
