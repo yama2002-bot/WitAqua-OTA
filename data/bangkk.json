@@ -1,10 +1,10 @@
 {
-  "name": "Motorola <G84>",
+  "name": "Motorola Moto G84",
   "codename": "bangkk",
-  "brand": "Xiaomi",
+  "brand": "Motorola",
   "maintainer": {
-    "name": "yama",
-    "github": "TUO_GITHUB"
+    "name": "yama2002",
+    "github": "yama2002-bot"
   },
   "downloadUrl": "LINK_SOURCEFORGE_DOWNLOAD",
   "imgsUrl": "https://sourceforge.net/projects/witaqua/files/16/bangkk/images/",
