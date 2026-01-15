@@ -1,10 +1,6 @@
 {
   "response": [
     {
-      "maintainer": "yama",
-      "currently_maintained": true,
-      "oem": "Motorola",
-      "device": "16",
       "filename": "SunOS-Bangkk-2026-01-15-UNOFFICIAL.zip",
       "download": "https://sourceforge.net/projects/witaqua-bangkk/files/16/bangkk/SunOS-Bangkk-2026-01-15-UNOFFICIAL.zip/download",
       "timestamp": 1768433196,
@@ -12,9 +8,7 @@
       "sha256": "b359a69b0ecbf11e2e908799bea27182d079dfe181c86bc3780042504f12f01f",
       "size": 2267827005,
       "version": "bienor",
-      "buildtype": "userdebug",
-      "initial_installation_images": [],
-      "extra_images": []
+      "buildtype": "userdebug"
     }
   ]
 }
