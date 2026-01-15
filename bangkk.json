@@ -1,8 +1,8 @@
 {
   "response": [
     {
-      "maintainer": "",
-      "currently_maintained": false,
+      "maintainer": "yama",
+      "currently_maintained": true,
       "oem": "Motorola",
       "device": "16",
       "filename": "SunOS-Bangkk-2026-01-15-UNOFFICIAL.zip",
@@ -13,10 +13,6 @@
       "size": 2267827005,
       "version": "bienor",
       "buildtype": "userdebug",
-      "forum": "",
-      "firmware": "",
-      "paypal": "",
-      "github": "",
       "initial_installation_images": [],
       "extra_images": []
     }
